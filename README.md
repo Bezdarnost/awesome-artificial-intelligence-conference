@@ -8,3 +8,9 @@
 Conferences list:
  ICCV, CVPR, ECCV, ICML, ICLR, NeuralIPS, ACL, AAAI, IJCAI, SIGGRAPH, ICME, BMVC, ACCV, ICIP, ACM MM, ICPR
 Annual Meeting of the Association for Computational Linguistics
+
+Useful links:
+
+[AI Conference Deadlines by Papers With Code](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
+
+[CVF Conferences list](https://www.thecvf.com/?page_id=100)
