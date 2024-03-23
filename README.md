@@ -17,3 +17,5 @@ Annual Meeting of the Association for Computational Linguistics
 - [AI Conference Deadlines by Papers With Code](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
 
 - [CVF Conferences list](https://www.thecvf.com/?page_id=100)
+
+- [Computer Vision Conferences with ranking and h5-index table](http://www.cse.iitm.ac.in/~vplab/onlinecvconferences.html)
